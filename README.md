@@ -21,14 +21,11 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:vinceswu88@gmail.com">
+  <a href="mukunda2830@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ecnivs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
- <a href="https://www.youtube.com/@ecnivs">
-    <img src="https://img.shields.io/badge/YouTube-D32F2F?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
  <hr/>
@@ -36,10 +33,10 @@
 <h2 align="center">⚒️ My Superpowers ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,java,c,rust,md,bash"/><br>
+    <img src="https://skillicons.dev/icons?i = python,java,c,rust,bash"/><br>
     <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" width="50">
-    <img src="https://skillicons.dev/icons?i=godot,flask"/>
-    <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,kali,"/>
+    <img src="https://skillicons.dev/icons?i=godot"/>
+    <img src="https://skillicons.dev/icons?i=linux,arch,kali,"/>
   <br>
 </div>
 <br/><hr/>
