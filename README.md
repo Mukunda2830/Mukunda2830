@@ -1,5 +1,4 @@
-<div align="right">
-  <img src="https://profile-counter.glitch.me/ecnivs/count.svg?"  />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+There!+;+I'm+Mukunda!;" />
@@ -11,11 +10,11 @@
 
 <div align="center">
  
- Core Member of **GrenckDevs**
+ Core Member of [**GrenckDevs**](https://grenckdevs.xyz)
  
- Learning **Assembly** because "user-friendly" is a myth created by weaklings
+ Functions? That’s just labels with **commitment** issues.
 
- 🗣️ Who needs comments? Future me will figure it out.
+ Memory leaks aren’t **bugs**. They’re challenges for the **garbage** collector I never use
 
 <br/>
  </div>
@@ -24,18 +23,17 @@
   <a href="mukunda2830@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/ecnivs" target="_blank">
+  <a href="https://www.linkedin.com/in/mukunda-m/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
  <hr/>
  
-<h2 align="center">⚒️ My Superpowers ⚒️</h2>
+<h2 align="center"> My Powers </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,rust,bash"/><br>
-    <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" width="50">
-    <img src="https://skillicons.dev/icons?i=godot"/>
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,bash"/><br>
+    <img src="https://skillicons.dev/icons?i=godot,androidstudio" />
     <img src="https://skillicons.dev/icons?i=linux,arch,kali,"/>
   <br>
 </div>
@@ -49,27 +47,6 @@
 </div>
 <hr/>
 
-<div align="center">
-  <h2 align="center">✨ LeetCode Flex ✨</h2>
-<p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ecnivs?theme=dark&font=Nunito&ext=heatmap"/>
-</p> </h2><hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ecnivs&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ecnivs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ecnivs&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/><br/>
-<div align=right>
-  <img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675b2d81c4f1ae902adbdfe754b7671de41d8aaa77a23836&ipo=images"  />
-</div><hr/><br/>
-  
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ecnivs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div><br/>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/ecnivs/ecnivs/main/bottom.svg"/>
