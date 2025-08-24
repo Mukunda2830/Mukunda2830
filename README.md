@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ My Superpowers ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i = python,java,c,rust,bash"/><br>
+    <img src="https://skillicons.dev/icons?i=python,java,c,rust,bash"/><br>
     <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" width="50">
     <img src="https://skillicons.dev/icons?i=godot"/>
     <img src="https://skillicons.dev/icons?i=linux,arch,kali,"/>
