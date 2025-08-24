@@ -34,29 +34,63 @@ Garbage collector? Nah, I build my own chest storage.
 
 <hr/>
 
-<h2 align="center" style="font-size: 26px;">My Crafting Skills</h2>
+<h2 align="center" style="font-size: 28px;">My Crafting Skills</h2>
 
 <br/>
 
-<div align="center">
+<!-- Crafting Table Styled Section -->
+<div align="center" style="
+  display:inline-block;
+  padding:20px;
+  border:6px solid #4d2c0c;
+  background:url('https://i.imgur.com/o7rZ5dM.png');
+  background-size:cover;
+  border-radius:12px;
+">
 
-<table>
+<!-- Crafting Grid -->
+<table style="border-collapse:collapse;">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=python" width="60"/></td>
-    <td><img src="https://skillicons.dev/icons?i=java" width="60"/></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp" width="60"/></td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" width="60"/></a>
+    </td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="60"/></a>
+    </td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="60"/></a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=rust" width="60"/></td>
-    <td><img src="https://skillicons.dev/icons?i=androidstudio" width="60"/></td>
-    <td><img src="https://skillicons.dev/icons?i=godot" width="60"/></td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://www.rust-lang.org/" title="Rust"><img src="https://skillicons.dev/icons?i=rust" width="60"/></a>
+    </td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="60"/></a>
+    </td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://godotengine.org/" title="Godot"><img src="https://skillicons.dev/icons?i=godot" width="60"/></a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=kali" width="60"/></td>
-    <td><img src="https://skillicons.dev/icons?i=linux" width="60"/></td>
-    <td><img src="https://skillicons.dev/icons?i=arch" width="60"/></td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://www.kali.org/" title="Kali Linux"><img src="https://skillicons.dev/icons?i=kali" width="60"/></a>
+    </td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="60"/></a>
+    </td>
+    <td style="border:2px solid #3a2a16; padding:8px; background:#8b6b3f;">
+      <a href="https://archlinux.org/" title="Arch Linux"><img src="https://skillicons.dev/icons?i=arch" width="60"/></a>
+    </td>
   </tr>
 </table>
+
+<!-- Output Slot -->
+<br/><br/>
+<div style="border:3px solid #3a2a16; background:#5c4630; display:inline-block; padding:15px; border-radius:8px;">
+  <h3 align="center" style="color:white; font-family:'Press Start 2P', monospace;">Crafted Output</h3>
+  <p align="center" style="color:white; font-weight:bold;">Discord Bots | Android Apps | Games | Security Tools</p>
+</div>
 
 </div>
 
@@ -70,7 +104,13 @@ Garbage collector? Nah, I build my own chest storage.
 
 <img alt="minecraft grass growing from my commits" src="https://raw.githubusercontent.com/ecnivs/ecnivs/output/github-contribution-grid-snake.svg" />
 
-<br/><br/><br/>
+<br/><br/>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
+</p>
 
 </div>
 
