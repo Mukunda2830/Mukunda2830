@@ -4,7 +4,7 @@
 
 </h1>
 
-<h3 align="center">Surviving with Arch Linux btw</h3>
+<h3 align="center">World level on Arch btw</h3>
 
 <br/>
 
