@@ -12,9 +12,9 @@
 
 🟩 Core Member of [**GrenckDevs**](https://grenckdevs.xyz) 🟩  
 
-Functions? Just blocks with commitment issues.  
-Memory leaks aren’t bugs – they’re Creepers in disguise.  
-Garbage collector? Nah, I build my own chest storage.  
+LeetCode streaks are just digital gym memberships — lots of effort, no real gains.
+
+Segmentation fault? That’s just my brain dereferencing NULL.
 
 </div>
 
@@ -108,8 +108,8 @@ Garbage collector? Nah, I build my own chest storage.
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukunda2830&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukunda2830&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
 </p>
 
 </div>
