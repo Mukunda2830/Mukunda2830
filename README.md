@@ -10,7 +10,6 @@
 
 <div align="center">
 
- Co-Founder of [**GrenckDevs**](https://grenckdevs.xyz)  
 
 LeetCode streaks are just digital gym memberships — lots of effort, no real gains.
 
