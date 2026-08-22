@@ -20,6 +20,17 @@
     <img src="https://count.getloli.com/@:Mukunda2830?theme=booru-smtg&padding=5&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile views" />
 </p>
 
+<!-- TEMP THEME PICKER — remove after choosing -->
+<p align="center">kasuterura-1</p>
+<p align="center"><img src="https://count.getloli.com/@:MukundaPick1?theme=kasuterura-1&padding=5&scale=1&align=top&pixelated=1&darkmode=auto" /></p>
+<p align="center">kasuterura-2</p>
+<p align="center"><img src="https://count.getloli.com/@:MukundaPick2?theme=kasuterura-2&padding=5&scale=1&align=top&pixelated=1&darkmode=auto" /></p>
+<p align="center">kasuterura-3</p>
+<p align="center"><img src="https://count.getloli.com/@:MukundaPick3?theme=kasuterura-3&padding=5&scale=1&align=top&pixelated=1&darkmode=auto" /></p>
+<p align="center">kasuterura-4</p>
+<p align="center"><img src="https://count.getloli.com/@:MukundaPick4?theme=kasuterura-4&padding=5&scale=1&align=top&pixelated=1&darkmode=auto" /></p>
+<!-- END TEMP THEME PICKER -->
+
 
 <p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
 
