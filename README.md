@@ -105,6 +105,7 @@ Tools: Git, Bazel, Godot, Kali Linux, Bash
   <img src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Neovim_(LazyVim)-000000?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 
@@ -123,6 +124,10 @@ Tools: Git, Bazel, Godot, Kali Linux, Bash
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukunda2830&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=b3b3b3&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mukunda2830&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 
