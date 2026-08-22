@@ -46,14 +46,15 @@ Profile ver. 2.0: 「継続は力なり」 一 Japanese proverb
 Name: Mukunda 「ムクンダ」
 WhoamI: World level on Arch btw. I craft things — Discord bots, Android
         apps, games, and the occasional security tool. Currently
-        building at Matiks (TypeScript / Expo). LeetCode streaks are
-        just digital gym memberships — lots of effort, no real gains.
-        Segmentation fault? That's just my brain dereferencing NULL.
+        building at Matiks (TypeScript / React Native / Expo, Go /
+        Bazel on the backend). LeetCode streaks are just digital gym
+        memberships — lots of effort, no real gains. Segmentation
+        fault? That's just my brain dereferencing NULL.
 OS: Arch Linux
 CurrentGrind: Full Stack Development @ Matiks
 SideQuests: Discord bots, Android apps, game dev, security tools
-Languages: Python, Java, C++, Rust, TypeScript
-Tools: Git, Godot, Kali Linux, Bash
+Languages: Python, Java, C++, Rust, TypeScript, Go
+Tools: Git, Bazel, Godot, Kali Linux, Bash
 ```
 
 </td>
@@ -69,7 +70,7 @@ Tools: Git, Godot, Kali Linux, Bash
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,typescript,react,androidstudio,godot,kali,bash,git,arch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,typescript,go,react,androidstudio,godot,kali,bash,git,arch&theme=dark" />
 </p>
 
 
@@ -87,6 +88,7 @@ Tools: Git, Godot, Kali Linux, Bash
   <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 <p align="center">
@@ -99,28 +101,12 @@ Tools: Git, Godot, Kali Linux, Bash
 <p align="center">
   <strong>Tools &amp; OS</strong><br/>
   <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bazel-000000?style=for-the-badge&logo=bazel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
-
-<p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Currently+Building+(%E5%88%B6%E4%BD%9C%E4%B8%AD)" alt="Typing SVG" />
-</div>
-
-<div align="center">
-
-| Project | Stack | What it is |
-|---|---|---|
-| [matiks](https://github.com/Mukunda2830/matiks) | TypeScript / Expo | Active build |
-| [grenck-algo](https://github.com/Mukunda2830/grenck-algo) | JavaScript | Algorithms sandbox |
-| [dsatm](https://github.com/Mukunda2830/dsatm) | Python | DSA practice |
-
-</div>
 
 
 <p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
