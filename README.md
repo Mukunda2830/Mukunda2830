@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Mukunda2830&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
+    <img src="https://count.getloli.com/@:Mukunda2830?theme=booru-smtg&padding=5&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile views" />
 </p>
 
 
