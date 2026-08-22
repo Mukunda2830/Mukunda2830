@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://anime-counter.lulushu.workers.dev/@Mukunda2830?theme=aot" alt="Profile views" />
+    <img src="https://anime-counter.lulushu.workers.dev/@Mukunda2830?theme=aot&length=3" alt="Profile views" />
 </p>
 
 
