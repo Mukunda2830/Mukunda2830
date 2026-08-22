@@ -70,7 +70,7 @@ Tools: Git, Bazel, Godot, Kali Linux, Bash
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,typescript,go,react,androidstudio,godot,kali,bash,git,arch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,typescript,go,react,godot,kali,bash,git,arch&theme=dark" />
 </p>
 
 
